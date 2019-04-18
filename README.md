@@ -1,4 +1,4 @@
-# Multiagent-Evolutionary-Algorithm
+# Evolutionary Algorithm with Intelligent Agents
 
 <div align="center">
 	<div width="350px">
